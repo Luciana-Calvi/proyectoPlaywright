@@ -7,10 +7,7 @@ test('Login en la web', async ({ page }) => {
     await page.goto('https://petstore.octoperf.com/actions/Catalog.action');
 
     await loginPage.clickSignIn();
-    await loginPage.login('Lucilu','j2ee');
+    await loginPage.login('Luci123','j2ee');
     await loginPage.clickLogin();
-    await expect(loginPage.msj2).toBeVisible({ timeout: 10000 });
+    await expect(loginPage.msj).toBeVisible({ timeout: 10000 });
 });
-
-
-
