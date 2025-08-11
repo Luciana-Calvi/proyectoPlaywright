@@ -797,3 +797,8 @@
                                 npx playwright test --headed
 
 ## 📸 Videos
+
+-[loginOK](https://drive.google.com/file/d/1dPIZ1dhjIc4taqgR4bLgvD_mvfx6thQV/view?usp=sharing)
+-[loginFail](https://drive.google.com/file/d/1grqodTG7SfOtTGfEGQa-YEbDDaKKC-e3/view?usp=sharing)
+-[registroOk](https://drive.google.com/file/d/1iyjXmRk94syA8kQUFhneMssxp6IgFL3J/view?usp=sharing)
+-[registroFail](https://drive.google.com/file/d/1KBZTknPorkCfZ3fqIXIMbrOaUvufR1LR/view?usp=sharing)
